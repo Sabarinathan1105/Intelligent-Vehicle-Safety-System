@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+numpy
+pandas
+flask
+pyttsx3
+pillow
+requests
+matplotlib
